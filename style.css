@@ -1,19 +1,20 @@
-#banner {
-	width: 100%;
-} 
 body {
-	background: #29D9D9;
+	background: #cccccc;
 	margin: 0;
 	padding: 0;
 }
 
-h1 {
-	text-align: center;
+#banner{
+	width: 100%;
 }
 
-p {
+h1{
 	text-align: center;
+
 }
 
 
+p{
+	text-align: center;
 
+}
